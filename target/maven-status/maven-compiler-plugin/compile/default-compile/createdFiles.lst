@@ -1,4 +1,5 @@
-com\javatechie\redis\SpringDataRedisExampleApplication.class
-com\javatechie\redis\config\RedisConfig.class
-com\javatechie\redis\entity\Product.class
-com\javatechie\redis\respository\ProductDao.class
+com\product\redis\controller\ProductController.class
+com\product\redis\entity\Product.class
+com\product\redis\respository\ProductDao.class
+com\product\redis\SpringDataRedisExampleApplication.class
+com\product\redis\config\RedisConfig.class
